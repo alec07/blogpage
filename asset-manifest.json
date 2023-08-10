@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/blogpage/static/css/main.073c9b0a.css",
-    "main.js": "/blogpage/static/js/main.5e123ed8.js",
+    "main.css": "/blogpage/static/css/main.872d34e5.css",
+    "main.js": "/blogpage/static/js/main.6be97795.js",
     "static/js/496.8b304bdb.chunk.js": "/blogpage/static/js/496.8b304bdb.chunk.js",
+    "static/media/bank_app.jpg": "/blogpage/static/media/bank_app.8f6441b098caea7abe8d.jpg",
+    "static/media/book-blog.jpg": "/blogpage/static/media/book-blog.a383bceea66745139947.jpg",
+    "static/media/my-photo.jpg": "/blogpage/static/media/my-photo.7a820abe3b9b4c8bb13c.jpg",
+    "static/media/computer-image.jpg": "/blogpage/static/media/computer-image.2b88bef3f590f6c619a6.jpg",
     "index.html": "/blogpage/index.html",
-    "main.073c9b0a.css.map": "/blogpage/static/css/main.073c9b0a.css.map",
-    "main.5e123ed8.js.map": "/blogpage/static/js/main.5e123ed8.js.map",
+    "main.872d34e5.css.map": "/blogpage/static/css/main.872d34e5.css.map",
+    "main.6be97795.js.map": "/blogpage/static/js/main.6be97795.js.map",
     "496.8b304bdb.chunk.js.map": "/blogpage/static/js/496.8b304bdb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5e123ed8.js"
+    "static/css/main.872d34e5.css",
+    "static/js/main.6be97795.js"
   ]
 }
